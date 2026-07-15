@@ -169,4 +169,7 @@ This portfolio will grow into a complete SOC analyst showcase.
 
 ## 📫 Contact
 **Name:** Humberto Chan  
-**Location:** Colorado, USA  
+**Location:** Edgewater, Colorado  
+**GitHub:** https://github.com/Humberto1987  
+**TryHackMe:** https://tryhackme.com/p/YOUR_USERNAME  
+
